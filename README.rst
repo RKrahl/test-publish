@@ -1,3 +1,8 @@
+|doi|
+
+.. |doi| image:: https://sandbox.zenodo.org/badge/580744101.svg
+   :target: https://sandbox.zenodo.org/badge/latestdoi/580744101
+
 Test repository to try linking with Zenodo
 ==========================================
 
