@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: test-publish – Test repository to try linking with Zenodo
+message: Please cite this software using these metadata.
+type: software
+authors:
+  - given-names: Rolf
+    family-names: Krahl
+    email: rolf.krahl@helmholtz-berlin.de
+    affiliation: >-
+      Helmholtz-Zentrum Berlin für Materialien und
+      Energie
+    orcid: 'https://orcid.org/0000-0002-1266-3819'
+repository-code: 'https://github.com/RKrahl/test-publish'
+abstract: >-
+  This repository does not provide anything useful.  It is used to try
+  out and play around with the linking of a GitHub repository with
+  Zenodo.
+keywords:
+  - DOI
+  - Software publishing
+  - Zenodo
+license: Apache-2.0
