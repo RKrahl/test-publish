@@ -22,7 +22,7 @@ clean:
 
 distclean: clean
 	rm -f MANIFEST _meta.py
-	rm -f test-publish/__init__.py
+	rm -f testpub/__init__.py
 	rm -rf dist
 	rm -rf tests/.pytest_cache
 	$(MAKE) -C doc distclean

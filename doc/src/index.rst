@@ -1,5 +1,5 @@
 test-publish
-=========
+============
 
 .. toctree::
    :maxdepth: 2

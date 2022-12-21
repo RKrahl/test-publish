@@ -4,4 +4,4 @@ __pycache__/
 /_meta.py
 /build/
 /dist/
-/test-publish/__init__.py
+/testpub/__init__.py

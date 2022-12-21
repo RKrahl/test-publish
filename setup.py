@@ -124,7 +124,7 @@ setup(
         "Programming Language :: Python :: 3.11",
         # "Topic :: ?",
     ],
-    packages = ["test-publish"],
+    packages = ["testpub"],
     python_requires = ">=3.4",
     install_requires = [],
     cmdclass = dict(cmdclass, build_py=build_py, sdist=sdist, meta=meta),
