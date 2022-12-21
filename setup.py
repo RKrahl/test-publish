@@ -100,7 +100,7 @@ with Path("README.rst").open("rt", encoding="utf8") as f:
     readme = f.read()
 
 setup(
-    name = "$distname",
+    name = "test-publish",
     version = version,
     description = docstring.split("\n")[0],
     long_description = readme,
@@ -124,7 +124,7 @@ setup(
         "Programming Language :: Python :: 3.11",
         # "Topic :: ?",
     ],
-    packages = ["$distname"],
+    packages = ["test-publish"],
     python_requires = ">=3.4",
     install_requires = [],
     cmdclass = dict(cmdclass, build_py=build_py, sdist=sdist, meta=meta),

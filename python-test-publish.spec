@@ -1,5 +1,5 @@
 %bcond_without tests
-%global distname $distname
+%global distname test-publish
 
 Name:		python3-%{distname}
 Version:	$version

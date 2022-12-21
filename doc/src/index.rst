@@ -1,4 +1,4 @@
-$distname
+test-publish
 =========
 
 .. toctree::
