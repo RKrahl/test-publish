@@ -1,13 +1,9 @@
-A skeleton for a Python package
-===============================
+Test repository to try linking with Zenodo
+==========================================
 
-This repository provides a skeleton of a Python package.  It is useful
-as a starting point to create a new package.
-
-After using this template to create a new package, run the following
-command to adapt the package name::
-
-     $ python3 init.py <name>
+This repository does not provide anything useful.  It is used to try
+out and play around with the linking of a GitHub repository with
+`Zenodo sandbox`_.
 
 
 System requirements
@@ -55,6 +51,7 @@ implied.  See the License for the specific language governing
 permissions and limitations under the License.
 
 
+.. _Zenodo sandbox: https://sandbox.zenodo.org/
 .. _setuptools: https://github.com/pypa/setuptools/
 .. _setuptools_scm: https://github.com/pypa/setuptools_scm/
 .. _pytest: https://pytest.org/
